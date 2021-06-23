@@ -5,6 +5,8 @@
   <p>
     Bachelor of Computer Science from <a href="https://kpi.ua/en" targer="_blank">NTUU "KPI"</a>.<br/>
     Professional Java Programmer since 2019.<br/>
-    Currently working on <a href="https://github.com/eduard-romanyuk/turbosms-spring-boot-starter">turbosms-spring-boot-starter</a>.<br/>
+    Currently studying for AWS certifications.<br/>
+    Projects:<br/>
+    > <a style="block: inline-block" href="https://github.com/eduard-romanyuk/turbosms-spring-boot-starter">turbosms-spring-boot-starter</a>
   </p>
 </div> 
