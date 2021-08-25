@@ -17,5 +17,8 @@
     <a href="https://www.credly.com/badges/aba40fa7-84bb-466c-add2-f92dce45cc1d/public_url">
       <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" height="100px"/>
     </a>
+    <a href="https://www.credly.com/badges/4668a038-bb9c-4dd6-abaa-70e1778c9093/public_url">
+      <img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" height="100px"/>
+    </a>
   </p>
 </div> 
